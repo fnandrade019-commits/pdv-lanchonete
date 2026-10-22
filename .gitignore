@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+.venv/
+
+# Banco de dados local
+*.db
+
+# Senhas e configurações secretas
+.env
