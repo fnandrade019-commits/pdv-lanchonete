@@ -12,5 +12,3 @@ cardapio = [
 @app.get("/produtos")
 def listar_produtos ():
     return cardapio
-
-print (listar_produtos())
